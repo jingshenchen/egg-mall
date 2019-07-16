@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "jingshenchen",
+    "password": "120189qaz",
+    "database": "egg-sequelize-doc-default",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "define": {
+      "charset": "utf8",
+      "dialectOptions": {
+        "collate": "utf8_general_ci"
+      }
+    }
+  }
+}
+
